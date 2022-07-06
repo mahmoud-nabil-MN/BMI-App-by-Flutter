@@ -1,4 +1,4 @@
-import 'package:bmi4/result.dart';
+import 'result.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 class MyHomePage extends StatefulWidget {
